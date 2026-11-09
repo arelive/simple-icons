@@ -4528,7 +4528,7 @@
 	},
 	{
 		"title": "Docker Compose",
-		"hex": "BAC9D9",
+		"hex": "2496ED",
 		"source": "https://github.com/docker/compose/blob/2011bc3cea1c78eccd0fa75d01a6b638d6bfb7c2/logo.svg",
 		"guidelines": "https://www.docker.com/legal/docker-terms-use/",
 		"license": {
