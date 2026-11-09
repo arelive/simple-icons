@@ -4527,6 +4527,15 @@
 		"source": "https://www.docker.com/company/newsroom/media-resources"
 	},
 	{
+		"title": "Docker Compose",
+		"hex": "BAC9D9",
+		"source": "https://github.com/docker/compose/blob/2011bc3cea1c78eccd0fa75d01a6b638d6bfb7c2/logo.svg",
+		"guidelines": "https://www.docker.com/legal/docker-terms-use/",
+		"license": {
+			"type": "Apache-2.0"
+		}
+	},
+	{
 		"title": "Docs.rs",
 		"hex": "000000",
 		"source": "https://docs.rs"
